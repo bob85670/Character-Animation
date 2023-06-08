@@ -10,7 +10,7 @@ Motion_Processing provide a practical introduction to working with animation dat
 conda activate comp3360        
 conda install numpy scipy         
 pip install panda3d         
-# Enviromtns verification. After running, you should see a skeleton in a 3D space       
+# Enviroments verification. After running, you should see a skeleton in a 3D space       
 cd ./Basic_Character_Animation                
 python env_test.py         
 
