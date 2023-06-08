@@ -1,5 +1,4 @@
 # Character-Animation
-This is a repository about character animation
 
 Basic_Character_Animation shows the basic data structure and animation creation pipeline and are required to create an animation clip with provided infrastructure. Also, it shows the use of the mathematics in FK and IK to read the motion capture files and play with them.     
 
