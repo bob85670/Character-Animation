@@ -5,11 +5,13 @@ Basic_Character_Animation shows the basic data structure and animation creation 
 Motion_Processing provide a practical introduction to working with animation data through various algorithms such as interpolation and concatenation. Also, it considers various variables from motion data to enhance the performance of the motion matching method.    
 
 
-# recommend to use Anaconda to manage enviroment conda create -n comp3360 python=3.8         
-conda activate comp3360        
-conda install numpy scipy         
-pip install panda3d         
-# Enviroments verification. After running, you should see a skeleton in a 3D space       
+# recommend to use Anaconda to manage enviroment       
+conda create -n comp3360 python=3.8           
+conda activate comp3360             
+conda install numpy scipy           
+pip install panda3d           
+
+# Enviroments verification. After running, you should see a skeleton in a 3D space         
 cd ./Basic_Character_Animation                
 python env_test.py         
 
