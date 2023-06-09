@@ -15,10 +15,10 @@ pip install panda3d
 cd ./Basic_Character_Animation                
 python env_test.py         
 
-In Basic_Character_Animation,
+In Basic_Character_Animation,        
 python task2_forward_kinematic.py       
 python task3_inverse_kinematic.py         
 
-In Motion_Processing,
+In Motion_Processing,        
 python task1_motion_editing.py      
 python task2_motion_matching.py
